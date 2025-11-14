@@ -9,4 +9,6 @@
 ### 🛠 Skills
 Linux, Deep Learning, NLP, Machine Learning, Computer vision ......
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImdataScientistSachin&show_icons=true&locale=en" alt="ImdataScientistSachin" /></p>
+
 
