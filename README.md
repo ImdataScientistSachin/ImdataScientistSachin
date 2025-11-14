@@ -11,6 +11,11 @@ Linux, Deep Learning, NLP, Machine Learning, Computer vision ......
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImdataScientistSachin&show_icons=true&locale=en" alt="ImdataScientistSachin" /></p>
 
+### 📫 How to reach me...
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dany-petkar-434a8217)
+
+
 
 ### :fire: My Stats :
 
