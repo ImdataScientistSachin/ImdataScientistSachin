@@ -13,7 +13,7 @@ Linux, Deep Learning, NLP, Machine Learning, Computer vision ......
 
 ### 📫 How to reach me...
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-paunikar-datascientists/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sachin-paunikar-datascientists/)
 
 
 
