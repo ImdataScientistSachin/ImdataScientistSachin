@@ -63,8 +63,8 @@ I am passionate about building production-grade fairness monitoring tools that m
 ---
 
 ### 📫 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-paunikar) 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin.paunikar.ds@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sachin-paunikar-datascientists) 
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imdatascientistsachin@gmail.com) 
 
 > Currently building production-grade fairness monitoring tools. **Let's make AI responsible together!**  
 
