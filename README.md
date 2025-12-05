@@ -23,16 +23,26 @@ I am passionate about building production-grade fairness monitoring tools that m
 
 ---
 
-### 🚀 **Featured Project (Live Demo)**  
-[![Bias & Drift Detector](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/)  
+### Featured Project – Live Demo  
+[![Bias & Drift Detector – Live App](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/)
 
-**Bias & Drift Detector** – Real-time fairness dashboard  
-→ Intersectional analysis (e.g., Female + Age 50+ disparity)  
-→ Interactive drift simulation + confusion matrix  
-→ SHAP explanations + counterfactuals  
-→ Hybrid API / offline demo mode  
+<p align="center">
+  <a href="https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ImdataScientistSachin/ImdataScientistSachin/main/screenshots/dashboard-preview.png" 
+         alt="Bias & Drift Guardian – Full Dashboard" 
+         width="900" 
+         style="border-radius: 18px; box-shadow: 0 15px 35px rgba(0,0,0,0.4);"/>
+  </a>
+  <br><br>
+  <em>Click image to open live demo • Real-time bias + drift monitoring with intersectional fairness analysis</em>
+</p>
 
-*(Screenshot: [Add your dashboard image here](screenshots/dashboard-preview.png) for visual impact)*  
+**Bias & Drift Guardian** – Production-grade fairness dashboard  
+→ Intersectional analysis (Female + Age 50+ = Red flag)  
+→ Live drift simulation with KS-test & feature scores  
+→ Fairness metrics (Disparate Impact, Equalized Odds)  
+→ Confusion matrix + model performance summary  
+→ Works offline (hybrid fallback mode)
 
 ---
 
