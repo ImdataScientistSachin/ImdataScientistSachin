@@ -6,7 +6,7 @@ Nagpur, India • Open to remote roles & collaborations
 Compliant with EU AI Act & EEOC standards
 
 ### 🚀 Featured Project (Live Demo)
-[![Bias & Drift Detector](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit)](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/)
+[![Bias & Drift Detector](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit)](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/)  
 **Bias & Drift Detector** – Real-time fairness dashboard  
 → Intersectional analysis (e.g., Female + Age 50+ disparity)  
 → Interactive drift simulation + confusion matrix  
@@ -14,18 +14,18 @@ Compliant with EU AI Act & EEOC standards
 → Hybrid API / offline demo mode  
 
 ### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit)
-![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-blue)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
+![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-4285F4?logo=python&logoColor=white)
 
 ### 📊 GitHub Stats
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImdataScientistSachin&theme=tokyonight&show_icons=true)
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImdataScientistSachin&theme=tokyonight&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImdataScientistSachin&layout=compact&theme=tokyonight)
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/sachin-paunikar-datascientists)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](ImdataScientistSachin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-paunikar-datascientists)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ImdataScientistSachin@gmail.com)
 
 > Currently building production-grade fairness monitoring tools. Let's make AI responsible together!
