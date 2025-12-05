@@ -21,8 +21,14 @@ Compliant with EU AI Act & EEOC standards
 ![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-4285F4?logo=python&logoColor=white)
 
 ### 📊 GitHub Stats
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImdataScientistSachin&theme=tokyonight&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImdataScientistSachin&layout=compact&theme=tokyonight)
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImdataScientistSachin&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&hide=issues)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImdataScientistSachin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)
+
+**Fallback Stats (As of Dec 2025)**:  
+- 🌟 **Stars**: 5+ (Growing with bias-drift project)  
+- 📝 **Commits**: 50+ in last month  
+- 🗣️ **Languages**: Python (95%), Markdown (5%)  
+- 📈 **Streak**: Building daily contribs!  
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-paunikar-datascientists)
