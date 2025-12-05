@@ -21,8 +21,12 @@ Compliant with EU AI Act & EEOC standards
 ![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-4285F4?logo=python&logoColor=white)
 
 ### 📊 GitHub Stats
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImdataScientistSachin&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImdataScientistSachin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ImdataScientistSachin&theme=tokyonight&border=round&hide_border=true)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImdataScientistSachin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_color=00ff88)](https://github.com/anuraghazra/github-readme-stats)
+
+**Quick Stats**:  
+- Repos: 5+ | Stars: 5+ | Followers: Building community  
+- Focus: Ethical ML & Dashboards
 
 **Fallback Stats (As of Dec 2025)**:  
 - 🌟 **Stars**: 5+ (Growing with bias-drift project)  
