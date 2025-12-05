@@ -2,10 +2,19 @@
 **Data Scientist | ML Fairness & Responsible AI Engineer**  
 Nagpur, India • Open to remote roles & collaborations
 
-🔬 Specializing in **Bias Detection, Drift Monitoring & Intersectional Fairness**  
-Compliant with EU AI Act & EEOC standards
+🚀 **Personal Tagline**  
+Empowering ethical AI through transparent, intersectional fairness monitoring, real-time bias detection, and explainable AI (XAI).
 
-### 🚀 Featured Project (Live Demo)
+🔍 **About Me**  
+I am passionate about building production-grade fairness monitoring tools that make AI responsible, inclusive, and compliant with global standards like the EU AI Act and EEOC. With expertise in bias detection, drift monitoring, intersectional fairness, and MLOps, I design transparent ML workflows that engage both technical and non-technical audiences through clear storytelling, reproducible projects, and interactive dashboards.
+
+🛠️ **Tech Stack & Skills**  
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python, ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) R, ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) SQL, Markdown  
+- **Frameworks & Libraries**: ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) scikit-learn, ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) TensorFlow, ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) PyTorch, SHAP, ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) Plotly, ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) Streamlit  
+- **Tools & Platforms**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git, ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker, ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) Linux, W&B, TensorBoard, API development  
+- **Specialties**: Bias Detection, Drift Monitoring, Intersectional Fairness, Explainable AI (XAI), Model Deployment, Workflow Transparency, MLOps
+
+🚀 **Featured Project (Live Demo)**  
 [![Bias & Drift Detector](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/)  
 **Bias & Drift Detector** – Real-time fairness dashboard  
 → Intersectional analysis (e.g., Female + Age 50+ disparity)  
@@ -13,31 +22,26 @@ Compliant with EU AI Act & EEOC standards
 → SHAP explanations + counterfactuals  
 → Hybrid API / offline demo mode  
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
-![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-4285F4?style=flat&logo=python&logoColor=white)
+📊 **GitHub Stats**  
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImdataScientistSachin&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&hide=issues&card_width=400)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImdataScientistSachin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&card_width=400&langs_count=8)  
 
-### 📊 GitHub Stats
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImdataScientistSachin&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImdataScientistSachin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)  
+🏆 **Achievements & Highlights**  
+- 5+ repositories focused on ethical ML and dashboarding [](https://github.com/ImdataScientistSachin?tab=repositories)  
+- 5+ stars growing steadily with [bias-drift project](https://github.com/ImdataScientistSachin/bias-drift-detector)  
+- 50+ commits in the last month demonstrating active contribution  
+- Daily GitHub streak showcasing consistent engagement  
+- Designed tutorials with side-by-side bar plots and percentage comparison tables  
+- Built compact visualizations to showcase preprocessing impacts in a single glance  
 
-**Quick Stats (As of Dec 2025)**:  
-- 🌟 **Stars**: 5+ (Growing with bias-drift project)  
-- 📝 **Commits**: 50+ in last month  
-- 🗣️ **Languages**: Python (95%), Markdown (5%)  
-- 📈 **Streak**: Building daily contribs!  
-
-### 📫 Connect with me
+📫 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-paunikar) <!-- REPLACE WITH YOUR ACTUAL LINK -->  
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imdatascientistsachin@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](www.linkedin.com/in/sachin-paunikar-datascientists)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin.paunikar.ds@gmail.com) 
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ImdataSachin)
 
 > Currently building production-grade fairness monitoring tools. Let's make AI responsible together!  
 
----
+---  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImdataScientistSachin&theme=tokyonight&hide_border=true)  
-*Active contributor since 2025 – Watch this space for more ethical AI tools!*
+*Made with ❤️ using GitHub*
