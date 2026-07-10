@@ -50,10 +50,11 @@ class SachinPaunikar:
 | # | Project | Description | Stack | Demo |
 |---|---------|-------------|-------|------|
 | 🥇 | [**Bias Drift Guardian**](https://github.com/ImdataScientistSachin/Bias-Drift-Detector) | Real-time AI fairness & drift monitoring. Aligned with EU AI Act risk-management principles and informed by EEOC/ADA guidance. Intersectional bias detection across compound subgroups | `Python` `Streamlit` `FastAPI` `SHAP` `Fairlearn` `Docker` | [🔴 Live](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/) |
-| 🥈 | [**Urban Sound Classifier**](https://github.com/ImdataScientistSachin/Urban-Sound_Classifier-Project) | **96.63% accuracy** on UrbanSound8K (8,732 samples). Hybrid U-Net + CNN ensemble with real-time microphone classification | `TensorFlow` `U-Net` `Librosa` `TFLite` `Flask` | — |
+| 🥈 | [**Urban Sound Classifier**](https://github.com/ImdataScientistSachin/Urban-Sound_Classifier-Project) | **96.63%** accuracy on UrbanSound8K (8,732 samples). Hybrid U-Net + CNN ensemble with real-time microphone classification | `TensorFlow` `U-Net` `Librosa` `TFLite` `Flask` | — |
 | 🥉 | [**Transcript → Ad Generator**](https://github.com/ImdataScientistSachin/transcript_To_Ad_Generation-) | NLP pipeline: transcript ingestion → NER → LLM ad copy → async video rendering. CI/CD via GitHub Actions | `spaCy` `Redis Queue` `MoviePy` `Docker` `GitHub Actions` | — |
 | 4️⃣ |Archieved [**Skin Lesion Segmentation**](https://github.com/ImdataScientistSachin/UNet_Segmentation-) | Medical AI: U-Net pixel segmentation on HAM10000. Temporal tracking with automated >15% growth alerts | `TensorFlow` `U-Net` `OpenCV` `Albumentations` `HAM10000` | — |
-| 5️⃣ | [**RetinaFace Detection**](https://github.com/ImdataScientistSachin/RetinaFace-Detection) | Face detection & 5-point landmark localisation using RetinaFace architecture | `Python` `InsightFace` `OpenCV` `Jupyter` |  [🔴 Live]
+| 5️⃣ | [**RetinaFace Detection**](https://github.com/ImdataScientistSachin/RetinaFace-Detection) | Face detection & 5-point landmark localisation. MLflow-tracked, ~45ms latency, Dockerized. | `Python` `InsightFace` `OpenCV` `Jupyter` |  [🔴 Live]
+| 🥉| [**LLM-PlayBook**] (https://github.com/ImdataScientistSachin/llm-playbook) |RAG pipelines and tool-using agents with a retrieval evaluation harness (Recall@k, MRR). LangChain + FAISS + Groq.| 'Python' 'LangChain' 'FAISS' 'Groq' 'FastAPI' 'Docker'
 
 </div>
 
