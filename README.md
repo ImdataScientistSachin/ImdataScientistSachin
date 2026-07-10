@@ -228,7 +228,7 @@ If you work in **Responsible AI, MLOps, FinTech, HealthTech, or HR Tech** — le
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-paunikar-datascientists)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-paunikar)
 [![Email](https://img.shields.io/badge/Email-Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ImdataScientistSachin@gmail.com)
 [![Live Demo](https://img.shields.io/badge/Demo-Try_Bias_Drift_Guardian-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/)
 
