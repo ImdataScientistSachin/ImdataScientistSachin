@@ -4,16 +4,24 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:6e40c9&height=220&section=header&text=Sachin%20Paunikar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20Responsible%20AI%20%7C%20MLOps&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Building+production-grade+Agentic+AI+pipelines+%F0%9F%A4%96;CodeSlim%3A+76%25+token+reduction+%C2%B7+AST+guardrails+%C2%B7+LangGraph+DAG;Responsible+AI+%7C+ML+Fairness+%7C+Real-time+Drift+Monitoring+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- PROFILE BADGES -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-paunikar)
 [![Email](https://img.shields.io/badge/Email-ImdataScientistSachin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ImdataScientistSachin@gmail.com)
 [![CodeSlim](https://img.shields.io/badge/🤖_AGENTIC_AI-CodeSlim_Engine-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
 [![Live Demo](https://img.shields.io/badge/🔴_LIVE-Bias_Drift_Guardian-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=ImdataScientistSachin&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)](https://github.com/ImdataScientistSachin)
+
+</div>
+
+<div align="center">
+
+**Quick Jump →** [🤖 CodeSlim](#-flagship--codeslim-agentic-ai-code-quality-engine) &nbsp;·&nbsp; [🛡️ Bias Drift Guardian](#️-flagship-2--bias-drift-guardian) &nbsp;·&nbsp; [🧰 Stack](#-tech-stack) &nbsp;·&nbsp; [📊 Stats](#-github-stats) &nbsp;·&nbsp; [🤝 Connect](#-lets-connect)
 
 </div>
 
@@ -26,7 +34,7 @@ class SachinPaunikar:
     role        = "Agentic AI Engineer | ML Fairness & Responsible AI | MLOps"
     location    = "Nagpur, Maharashtra, India 🇮🇳"
     company     = "SparrowAI Research and Development Center"
-    education   = "B.E. Electrical Engineer — Nagpur University  |  CGPA: 8.2 / 10.0"
+    education   = "B.E. Computer Science — Nagpur University  |  CGPA: 8.2 / 10.0"
     open_to     = ["Remote roles", "Full-time positions", "Agentic AI Collaborations"]
 
     focus_areas = [
@@ -48,14 +56,14 @@ class SachinPaunikar:
 
 <div align="center">
 
-| # | Project | Description | Stack | Demo |
-|---|---------|-------------|-------|------|
-| 🏆 | [**CodeSlim**](https://github.com/ImdataScientistSachin/CodeSlim) | **NEW** · Agentic AI CLI engine — 6-stage LangGraph pipeline. Cuts LLM token bloat by **76%** with LibCST, AST guardrails & multi-provider fallback chain | `Python 3.11` `LangGraph` `LibCST` `Radon` `Vulture` `FastAPI` `Ollama` `Docker` | [⭐ Repo](https://github.com/ImdataScientistSachin/CodeSlim) |
-| 🥇 | [**Bias Drift Guardian**](https://github.com/ImdataScientistSachin/Bias-Drift-Detector) | Real-time AI fairness & drift monitoring. EU AI Act aligned. Intersectional bias detection across compound subgroups | `Python` `Streamlit` `FastAPI` `SHAP` `Fairlearn` `Docker` | [🔴 Live](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/) |
-| 🥈 | [**Urban Sound Classifier**](https://github.com/ImdataScientistSachin/Urban-Sound_Classifier-Project) | **96.63%** accuracy on UrbanSound8K. Hybrid U-Net + CNN with real-time mic classification | `TensorFlow` `U-Net` `Librosa` `TFLite` `Flask` | — |
-| 🥉 | [**Transcript → Ad Generator**](https://github.com/ImdataScientistSachin/transcript_To_Ad_Generation-) | NLP pipeline: transcript ingestion → NER → LLM ad copy → async video rendering | `spaCy` `Redis Queue` `MoviePy` `Docker` `GitHub Actions` | — |
-| 4️⃣ | [**LLM-PlayBook**](https://github.com/ImdataScientistSachin/llm-playbook) | RAG pipelines & tool-using agents with retrieval evaluation harness (Recall@k, MRR) | `LangChain` `FAISS` `Groq` `FastAPI` `Docker` | — |
-| 5️⃣ | [**Skin Lesion Segmentation**](https://github.com/ImdataScientistSachin/UNet_Segmentation-) | Medical AI: U-Net pixel segmentation on HAM10000. Temporal tracking with automated >15% growth alerts | `TensorFlow` `U-Net` `OpenCV` `Albumentations` | — |
+| #   | Project                                                                                                | Description                                                                                                                                               | Stack                                                                            | Demo                                                                                            |
+| --- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 🏆  | [**CodeSlim**](https://github.com/ImdataScientistSachin/CodeSlim)                                      | **NEW** · Agentic AI CLI engine — 6-stage LangGraph pipeline. Cuts LLM token bloat by **76%** with LibCST, AST guardrails & multi-provider fallback chain | `Python 3.11` `LangGraph` `LibCST` `Radon` `Vulture` `FastAPI` `Ollama` `Docker` | [⭐ Repo](https://github.com/ImdataScientistSachin/CodeSlim)                                    |
+| 🥇  | [**Bias Drift Guardian**](https://github.com/ImdataScientistSachin/Bias-Drift-Detector)                | Real-time AI fairness & drift monitoring. EU AI Act aligned. Intersectional bias detection across compound subgroups                                      | `Python` `Streamlit` `FastAPI` `SHAP` `Fairlearn` `Docker`                       | [🔴 Live](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/) |
+| 🥈  | [**Urban Sound Classifier**](https://github.com/ImdataScientistSachin/Urban-Sound_Classifier-Project)  | **96.63%** accuracy on UrbanSound8K. Hybrid U-Net + CNN with real-time mic classification                                                                 | `TensorFlow` `U-Net` `Librosa` `TFLite` `Flask`                                  | —                                                                                               |
+| 🥉  | [**Transcript → Ad Generator**](https://github.com/ImdataScientistSachin/transcript_To_Ad_Generation-) | NLP pipeline: transcript ingestion → NER → LLM ad copy → async video rendering                                                                            | `spaCy` `Redis Queue` `MoviePy` `Docker` `GitHub Actions`                        | —                                                                                               |
+| 4️⃣  | [**LLM-PlayBook**](https://github.com/ImdataScientistSachin/llm-playbook)                              | RAG pipelines & tool-using agents with retrieval evaluation harness (Recall@k, MRR)                                                                       | `LangChain` `FAISS` `Groq` `FastAPI` `Docker`                                    | —                                                                                               |
+| 5️⃣  | [**Skin Lesion Segmentation**](https://github.com/ImdataScientistSachin/UNet_Segmentation-)            | Medical AI: U-Net pixel segmentation on HAM10000. Temporal tracking with automated >15% growth alerts                                                     | `TensorFlow` `U-Net` `OpenCV` `Albumentations`                                   | —                                                                                               |
 
 </div>
 
@@ -94,66 +102,30 @@ CodeSlim solution: 76% token reduction · $0 LLM cost for 80% of fixes · 0% hal
 
 ### 🏗️ The 6-Stage Agentic Pipeline
 
-```
-  USER INPUT (.py File / Directory / GitHub PR Webhook)
-           │
-           ▼
-  ┌─────────────────────────────────────────────────────────────┐
-  │ STAGE 1 · STATIC SENSOR NODE                               │
-  │  Radon (CC > 10) · Vulture (dead code) · Lizard (NLOC)     │
-  │  Tree-Sitter C-native AST · MD5 Duplication Detector       │
-  └──────────────────────────────┬──────────────────────────────┘
-                                 │ FileMetrics & BloatMap
-                                 ▼
-  ┌─────────────────────────────────────────────────────────────┐
-  │ STAGE 2 · CONTEXT MINIMIZER NODE                           │
-  │  LibCST Lossless Transformer · DocstringCompressor          │
-  │  tiktoken Budget Enforcer · Bloat Score (Grade A–F)         │
-  └──────────────────────────────┬──────────────────────────────┘
-                                 │ Pruned Code + Bloat Score
-                                 ▼
-  ┌─────────────────────────────────────────────────────────────┐
-  │ STAGE 3 · DETERMINISTIC FIX NODE   ← $0.00 LLM Cost        │
-  │  LibCST auto-purge unused imports & dead variables          │
-  │  SHA-256 DiskCache · 100% deterministic · 0% hallucination  │
-  └──────────────────────────────┬──────────────────────────────┘
-                                 │ Cleaned Source
-                                 ▼
-  ┌─────────────────────────────────────────────────────────────┐
-  │ STAGE 4 · CHUNKED LLM REFACTOR NODE                        │
-  │  Extracts complex functions (CC > 10) only                  │
-  │  Provider chain: Ollama → OpenAI → Groq → CST Fallback      │
-  └──────────────────────────────┬──────────────────────────────┘
-                                 │ Proposed Refactored Code
-                                 ▼
-  ┌─────────────────────────────────────────────────────────────┐
-  │ STAGE 5 · AST GUARDRAIL SAFETY GATE   ← Zero Corruption     │
-  │  ast.parse() syntax verification                            │
-  │  Public signature & decorator preservation enforced         │
-  │  Rejects broken LLM output → falls back to CST fix          │
-  └──────────────────────────────┬──────────────────────────────┘
-                                 │ Verified Safe Code + Diff
-                                 ▼
-  ┌─────────────────────────────────────────────────────────────┐
-  │ STAGE 6 · FORMATTERS & OBSERVATORY UI                       │
-  │  Rich Terminal Dashboard (Tokyo Night) · HTML Observatory   │
-  │  FastAPI Web Studio · GitHub PR Bot (HMAC-SHA256)           │
-  └─────────────────────────────────────────────────────────────┘
+```text
+  INPUT → .py file / directory / GitHub PR Webhook
+  │
+  ├─ Stage 1 · STATIC SENSORS     Radon (CC) · Vulture (dead code) · Lizard (NLOC) · Tree-Sitter AST · MD5 Duplication
+  ├─ Stage 2 · CONTEXT MINIMIZER  LibCST Lossless Pruning · TF-IDF Docstring Compression · tiktoken Budget Enforcer
+  ├─ Stage 3 · DETERMINISTIC FIX  LibCST unused-import purge · SHA-256 DiskCache · $0.00 LLM cost (80% of all fixes)
+  ├─ Stage 4 · LLM REFACTOR       CC > 10 functions only · Ollama → OpenAI → Groq → CST Fallback (privacy-first)
+  ├─ Stage 5 · AST SAFETY GATE    ast.parse() syntax check · Public API preservation · Broken LLM → CST fallback
+  └─ Stage 6 · OBSERVATORY UI     Rich Terminal Dashboard · HTML Observatory · FastAPI Web Studio · GitHub PR Bot
 ```
 
 ### ⚡ Key Metrics & Capabilities
 
-| Capability | What It Does | Impact |
-|------------|-------------|--------|
-| ⚡ **76% Token Reduction** | LibCST lossless CST pruning + TF-IDF docstring compression | Massive LLM cost savings |
-| 🛡️ **AST Safety Gate** | `ast.parse()` + public signature preservation | **0% hallucination corruption** |
-| 🤖 **LangGraph DAG** | Stateful multi-node pipeline with conditional branching | Production-grade orchestration |
-| 💰 **$0 for 80% of Fixes** | Deterministic CST node — no LLM needed for import/dead-code purge | Zero API cost baseline |
-| 🔒 **Local-First Privacy** | Ollama (`qwen2.5-coder:3b`) runs 100% offline on GTX 1650 | Code never leaves your machine |
-| 🎯 **3-Tier Classifier** | Auto-Safe → Suggest → Flag-Only confidence tiers | Zero unintended breaking changes |
-| 💾 **SHA-256 Cache** | DiskCache stores LLM completions — re-runs cost **$0.00** | Complete cost optimization |
-| 🤖 **GitHub Action** | One-line CI integration, zero infrastructure setup | Automated PR audits |
-| 🔭 **HTML Observatory** | Standalone Tokyo Night interactive dashboard + surgery modal | Instant codebase visibility |
+| Capability                 | What It Does                                                      | Impact                           |
+| -------------------------- | ----------------------------------------------------------------- | -------------------------------- |
+| ⚡ **76% Token Reduction** | LibCST lossless CST pruning + TF-IDF docstring compression        | Massive LLM cost savings         |
+| 🛡️ **AST Safety Gate**     | `ast.parse()` + public signature preservation                     | **0% hallucination corruption**  |
+| 🤖 **LangGraph DAG**       | Stateful multi-node pipeline with conditional branching           | Production-grade orchestration   |
+| 💰 **$0 for 80% of Fixes** | Deterministic CST node — no LLM needed for import/dead-code purge | Zero API cost baseline           |
+| 🔒 **Local-First Privacy** | Ollama (`qwen2.5-coder:3b`) runs 100% offline on GTX 1650         | Code never leaves your machine   |
+| 🎯 **3-Tier Classifier**   | Auto-Safe → Suggest → Flag-Only confidence tiers                  | Zero unintended breaking changes |
+| 💾 **SHA-256 Cache**       | DiskCache stores LLM completions — re-runs cost **$0.00**         | Complete cost optimization       |
+| 🚀 **GitHub Action**       | One-line CI integration, zero infrastructure setup                | Automated PR audits              |
+| 🔭 **HTML Observatory**    | Standalone Tokyo Night interactive dashboard + surgery modal      | Instant codebase visibility      |
 
 ```python
 # One-liner: Analyze & auto-fix AI bloat in any Python project
@@ -162,9 +134,31 @@ codeslim optimize ./src/utils.py --apply --backup
 codeslim scan ./src/ --export-html observatory_report.html
 ```
 
+### 📐 Bloat Score Formula (Grades A–F)
+
+```
+BloatScore = min(100.0,
+    0.30 × CyclomaticComplexity  +   ← primary driver (Radon CC)
+    0.25 × NestingDepth          +   ← AI nesting hell detector
+    0.20 × DeadCodeLines         +   ← Vulture-detected bloat
+    0.15 × CognitiveComplexity   +   ← Lizard NLOC sensor
+    0.10 × DuplicationRatio          ← MD5 token-hash sliding window
+)
+```
+
+| Grade | Score | Meaning |
+|:-----:|:-----:|:--------|
+| **A** | 0–20 | Clean — no LLM intervention needed |
+| **B** | 21–40 | Good — Deterministic Fix Node handles it |
+| **C** | 41–60 | Moderate — LLM Refactor Node invoked on CC > 10 functions |
+| **D** | 61–80 | High bloat — full 6-stage pipeline runs |
+| **F** | 81–100 | Critical — AI over-engineering detected; immediate action required |
+
 <div align="center">
 
 [![View CodeSlim on GitHub](https://img.shields.io/badge/⭐_Star_on_GitHub-CodeSlim-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
+[![Contributors Welcome](https://img.shields.io/badge/🤝_Contributors-Welcome-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ImdataScientistSachin/CodeSlim/issues)
+[![PyPI](https://img.shields.io/badge/PyPI-Coming_Soon-FF6B6B?style=for-the-badge&logo=pypi&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
 
 </div>
 
@@ -182,21 +176,21 @@ codeslim scan ./src/ --export-html observatory_report.html
 
 </div>
 
-**What makes it unique:** Standard fairness tools check one attribute at a time (gender *or* age). Bias Drift Guardian detects **compound discrimination** across intersecting subgroups — the kind courts care about.
+**What makes it unique:** Standard fairness tools check one attribute at a time (gender _or_ age). Bias Drift Guardian detects **compound discrimination** across intersecting subgroups — the kind courts care about.
 
 ```
 Standard:  "No gender bias detected" ✅  (Male: 70%,  Female: 68%)
 Ours:      "Female employees aged 50+ → only 38% approval rate!" ❌  (Disparity: 0.48)
 ```
 
-| Capability | Details |
-|-----------|---------|
-| 🎯 Intersectional Fairness | Compound subgroup analysis (gender × age × race) |
-| 📊 Drift Detection | PSI · KS Test · Chi-Square with configurable thresholds |
-| 🔍 Root Cause Analysis | SHAP feature importance drift attribution |
-| 🔮 Counterfactual XAI | DiCE What-If explanations (constraint-aware, EEOC-auditable) |
-| 📁 Multi-Dataset | German Credit · Adult Census · COMPAS Recidivism |
-| 🚀 Deployment | Docker Compose · FastAPI · Streamlit Cloud · MIT licensed |
+| Capability                 | Details                                                      |
+| -------------------------- | ------------------------------------------------------------ |
+| 🎯 Intersectional Fairness | Compound subgroup analysis (gender × age × race)             |
+| 📊 Drift Detection         | PSI · KS Test · Chi-Square with configurable thresholds      |
+| 🔍 Root Cause Analysis     | SHAP feature importance drift attribution                    |
+| 🔮 Counterfactual XAI      | DiCE What-If explanations (constraint-aware, EEOC-auditable) |
+| 📁 Multi-Dataset           | German Credit · Adult Census · COMPAS Recidivism             |
+| 🚀 Deployment              | Docker Compose · FastAPI · Streamlit Cloud · MIT licensed    |
 
 ---
 
@@ -351,8 +345,8 @@ If you work in **Responsible AI, Agentic Systems, MLOps, FinTech, HealthTech, or
 
 <br/>
 
-> *"Build AI that is fast, safe, and fair —*  
-> *with deterministic guardrails at every stage of the pipeline."*
+> _"Build AI that is fast, safe, and fair —_  
+> _with deterministic guardrails at every stage of the pipeline."_
 
 </div>
 
