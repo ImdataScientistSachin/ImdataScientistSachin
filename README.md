@@ -26,7 +26,7 @@ class SachinPaunikar:
     role        = "Agentic AI Engineer | ML Fairness & Responsible AI | MLOps"
     location    = "Nagpur, Maharashtra, India 🇮🇳"
     company     = "SparrowAI Research and Development Center"
-    education   = "B.E. Computer Science — Nagpur University  |  CGPA: 8.2 / 10.0"
+    education   = "B.E. Electrical Engineer — Nagpur University  |  CGPA: 8.2 / 10.0"
     open_to     = ["Remote roles", "Full-time positions", "Agentic AI Collaborations"]
 
     focus_areas = [
