@@ -34,13 +34,13 @@ class SachinPaunikar:
     role        = "Agentic AI Engineer | LLM Infrastructure Specialist | MLOps Engineer"
     location    = "Nagpur → Open to Remote Global & India Tech Hubs 🇮🇳"
     company     = "SparrowAI Research and Development Center"
-    education   = "B.E. Computer Science — Nagpur University  |  CGPA: 8.2 / 10.0"
+    education   = "B.E. Electrical Engineer — Nagpur University  |  CGPA: 8.2 / 10.0"
     open_to     = [
         "Agentic AI Engineer",
         "LLM Infrastructure Specialist",
         "MLOps Engineer",
         "AI/ML Engineer",
-        "Remote Global · India Tech Hubs (Pune · Bangalore · Hyderabad · Mumbai)",
+        "Remote Global · India Tech Hubs ",
     ]
 
     core_expertise = [
