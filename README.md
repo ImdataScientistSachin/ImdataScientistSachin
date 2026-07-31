@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:6e40c9&height=220&section=header&text=Sachin%20Paunikar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20Responsible%20AI%20%7C%20MLOps&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:6e40c9&height=220&section=header&text=Sachin%20Paunikar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20Infrastructure%20%7C%20Multi-Agent%20Systems&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Building+production-grade+Agentic+AI+pipelines+%F0%9F%A4%96;CodeSlim%3A+76%25+token+reduction+%C2%B7+AST+guardrails+%C2%B7+LangGraph+DAG;Responsible+AI+%7C+ML+Fairness+%7C+Real-time+Drift+Monitoring+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=860&height=90&lines=Building+production-grade+Agentic+AI+pipelines+%F0%9F%A4%96;CodeSlim%3A+76%25+token+reduction+%C2%B7+AST+guardrails+%C2%B7+LangGraph+DAG;LLM+Infrastructure+%7C+MLOps+%7C+Multi-Agent+Systems+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,23 +31,30 @@
 
 ```python
 class SachinPaunikar:
-    role        = "Agentic AI Engineer | ML Fairness & Responsible AI | MLOps"
-    location    = "Nagpur, Maharashtra, India 🇮🇳"
+    role        = "Agentic AI Engineer | LLM Infrastructure Specialist | MLOps Engineer"
+    location    = "Nagpur → Open to Remote Global & India Tech Hubs 🇮🇳"
     company     = "SparrowAI Research and Development Center"
     education   = "B.E. Computer Science — Nagpur University  |  CGPA: 8.2 / 10.0"
-    open_to     = ["Remote roles", "Full-time positions", "Agentic AI Collaborations"]
-
-    focus_areas = [
-        "🤖  Agentic AI Pipelines (LangGraph · Multi-Agent · AST Guardrails)",
-        "⚖️  ML Fairness & Intersectional Bias Detection",
-        "📊  Real-time Drift Monitoring & Explainable AI",
-        "🔧  Code Quality Automation (Radon · Vulture · LibCST)",
-        "🏥  Medical Computer Vision & Deep Learning",
-        "🗣️  NLP · RAG Pipelines · Generative AI",
+    open_to     = [
+        "Agentic AI Engineer",
+        "LLM Infrastructure Specialist",
+        "MLOps Engineer",
+        "AI/ML Engineer",
+        "Remote Global · India Tech Hubs (Pune · Bangalore · Hyderabad · Mumbai)",
     ]
 
-    currently   = "Building CodeSlim — a deterministic-first Agentic AI code quality engine"
-    philosophy  = "Make AI responsible, transparent, and measurably safe — for everyone."
+    core_expertise = [
+        "🤖  Agentic AI Pipelines (LangGraph · Multi-Agent · Tool-Calling · AST Guardrails)",
+        "⚡  LLM Infrastructure — Token Optimization · Context Engineering · Fallback Chains",
+        "🔧  Code Quality Automation (LibCST · Radon · Vulture · Tree-Sitter)",
+        "🏭  MLOps — Docker · FastAPI · Railway · GitHub Actions CI/CD · Model Monitoring",
+        "📊  Data Drift Detection · Fairness Auditing · Explainable AI (SHAP · DiCE)",
+        "🗣️  RAG Pipelines · Ollama · LangChain · FAISS · Groq · Generative AI",
+    ]
+
+    flagship        = "CodeSlim — 76% LLM token reduction · 96/96 tests · $0 cost for 80% of fixes"
+    currently       = "Building production-grade Agentic AI systems & LLM infrastructure tools"
+    philosophy      = "Make AI infrastructure measurably reliable, not just impressively capable."
 ```
 
 ---
@@ -332,9 +339,14 @@ Two domains. One mission.
 
 <div align="center">
 
-I am actively looking for **Agentic AI**, **Data Scientist**, and **ML Engineer** roles — remote or Nagpur-based.
+🎯 **Currently open to:**  
+**Agentic AI Engineer** · **LLM Infrastructure Specialist** · **MLOps Engineer** · **AI/ML Engineer**
 
-If you work in **Responsible AI, Agentic Systems, MLOps, FinTech, HealthTech, or HR Tech** — let's talk.
+🌍 **Available for:** Remote Global + India Tech Hubs (Pune · Bangalore · Hyderabad · Mumbai)
+
+If you work in **Agentic Systems, LLM Infrastructure, MLOps, FinTech, HealthTech, or AI Tooling** — let's talk.
+
+📬 **Response time: < 24 hours**
 
 <br/>
 
