@@ -1,27 +1,26 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:6e40c9&height=220&section=header&text=Sachin%20Paunikar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20Infrastructure%20%7C%20Multi-Agent%20Systems&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:6e40c9&height=220&section=header&text=Sachin%20Paunikar&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Applied%20Generative%20AI%20%7C%20Agentic%20Systems%20%7C%20Sovereign%20RAG%20Infrastructure&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=860&height=90&lines=Building+production-grade+Agentic+AI+pipelines+%F0%9F%A4%96;CodeSlim%3A+76%25+token+reduction+%C2%B7+AST+guardrails+%C2%B7+LangGraph+DAG;LLM+Infrastructure+%7C+MLOps+%7C+Multi-Agent+Systems+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=880&height=90&lines=Building+production-grade+Agentic+AI+%26+RAG+Security+Pipelines+%F0%9F%9B%A1%EF%B8%8F;DataShuddi%3A+8-Node+LangGraph+PII+Firewall+%C2%B7+100%25+Recall+%C2%B7+Qdrant;CodeSlim%3A+76%25+Token+Reduction+%C2%B7+LibCST+%C2%B7+Tree-Sitter+AST+Guardrails;RetinaFace+Pro%3A+Deepfake+Forensics+%C2%B7+ArcFace+%C2%B7+45ms+Edge+Latency)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- PROFILE BADGES -->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-paunikar)
-[![Email](https://img.shields.io/badge/Email-ImdataScientistSachin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ImdataScientistSachin@gmail.com)
-[![CodeSlim](https://img.shields.io/badge/🤖_AGENTIC_AI-CodeSlim_Engine-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE-Bias_Drift_Guardian-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/)
+[![Email](https://img.shields.io/badge/Email-sachinpaunikar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinpaunikar@gmail.com)
+[![DataShuddi](https://img.shields.io/badge/🛡️_RAG_FIREWALL-DataShuddi_Engine-009688?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImdataScientistSachin/DataShuddi)
+[![CodeSlim](https://img.shields.io/badge/⚡_AGENTIC_AI-CodeSlim_Engine-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
+[![Live Demo](https://img.shields.io/badge/🔴_LIVE-RetinaFace_Pro-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://imdatascientistsachin-ratina-face.hf.space)
 [![Profile Views](https://komarev.com/ghpvc/?username=ImdataScientistSachin&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)](https://github.com/ImdataScientistSachin)
 
 </div>
 
 <div align="center">
 
-**Quick Jump →** [🤖 CodeSlim](#-flagship--codeslim-agentic-ai-code-quality-engine) &nbsp;·&nbsp; [🛡️ Bias Drift Guardian](#️-flagship-2--bias-drift-guardian) &nbsp;·&nbsp; [🧰 Stack](#-tech-stack) &nbsp;·&nbsp; [📊 Stats](#-github-stats) &nbsp;·&nbsp; [🤝 Connect](#-lets-connect)
+**Quick Jump →** [🛡️ DataShuddi](#-flagship-1--datashuddi-enterprise-rag-security-firewall) &nbsp;·&nbsp; [⚡ CodeSlim](#-flagship-2--codeslim-agentic-ai-code-quality-engine) &nbsp;·&nbsp; [🤖 RetinaFace Pro](#-flagship-3--retinaface-pro-deepfake-evidence--biometric-pipeline) &nbsp;·&nbsp; [⚖️ Bias Drift Guardian](#-flagship-4--bias-drift-guardian) &nbsp;·&nbsp; [🧰 Stack](#-tech-stack) &nbsp;·&nbsp; [📊 Stats](#-github-stats) &nbsp;·&nbsp; [🤝 Connect](#-lets-connect)
 
 </div>
 
@@ -31,83 +30,117 @@
 
 ```python
 class SachinPaunikar:
-    role        = "Agentic AI Engineer | LLM Infrastructure Specialist | MLOps Engineer"
-    location    = "Nagpur → Open to Remote Global & India Tech Hubs 🇮🇳"
-    company     = "SparrowAI Research and Development Center"
-    education   = "B.E. Electrical Engineer — Nagpur University  |  CGPA: 8.2 / 10.0"
+    role        = "Applied Generative AI & Agentic Systems Engineer | Senior Data Scientist"
+    location    = "Nagpur → Open to Remote Global & India Tech Hubs (Bangalore · Pune · Hyderabad · Mumbai) 🇮🇳"
+    experience  = "SparrowAI Research & Development Center | Sparrow AI Pvt. Ltd."
+    education   = "B.E. in Electrical Engineering — Nagpur University (RTMNU) | CGPA: 8.2 / 10.0"
+    
     open_to     = [
-        "Agentic AI Engineer",
-        "LLM Infrastructure Specialist",
-        "MLOps Engineer",
-        "AI/ML Engineer",
-        "Remote Global · India Tech Hubs ",
+        "Applied Generative AI Engineer",
+        "Agentic Systems Engineer",
+        "LLM Infrastructure & RAG Architect",
+        "Senior Data Scientist / MLOps Engineer",
+        "Remote Global · Relocation Ready"
     ]
 
-    core_expertise = [
-        "🤖  Agentic AI Pipelines (LangGraph · Multi-Agent · Tool-Calling · AST Guardrails)",
-        "⚡  LLM Infrastructure — Token Optimization · Context Engineering · Fallback Chains",
-        "🔧  Code Quality Automation (LibCST · Radon · Vulture · Tree-Sitter)",
-        "🏭  MLOps — Docker · FastAPI · Railway · GitHub Actions CI/CD · Model Monitoring",
-        "📊  Data Drift Detection · Fairness Auditing · Explainable AI (SHAP · DiCE)",
-        "🗣️  RAG Pipelines · Ollama · LangChain · FAISS · Groq · Generative AI",
+    core_pillars = [
+        "🛡️  Sovereign RAG Firewalls (LangGraph · Microsoft Presidio · Qdrant Vector Storage · Zero Cloud Leakage)",
+        "⚡  Deterministic Agentic Tooling (LibCST · Tree-Sitter · AST Guardrails · Context Minimization)",
+        "👁️  Computer Vision Forensics (RetinaFace · ArcFace · 5-Point Landmark Transformation · Deepfake Evidence)",
+        "📊  Production Model Governance (Statistical Drift · PSI · KS-Test · Fairlearn · SHAP Intersectional Auditing)",
+        "🏭  Full-Stack AI Deployability (Docker Compose · FastAPI · Streamlit · PostgreSQL PostgresSaver · Pytest)",
     ]
 
-    flagship        = "CodeSlim — 76% LLM token reduction · 96/96 tests · $0 cost for 80% of fixes"
-    currently       = "Building production-grade Agentic AI systems & LLM infrastructure tools"
-    philosophy      = "Make AI infrastructure measurably reliable, not just impressively capable."
+    flagships   = {
+        "DataShuddi": "8-Node LangGraph RAG Firewall · 100% PII Recall · 0.00% Residual Leak Rate · 66/66 Pytests",
+        "CodeSlim":   "76% LLM Token Reduction · LibCST AST Guardrails · 0% Hallucination Corruption",
+        "RetinaFace": "Real-Time Face Detection & Deepfake Verification · ~45ms Latency · HuggingFace Deployed",
+        "BiasDrift":  "Intersectional Fairness & Drift Monitoring · PSI / KS Tests · EEOC / EU AI Act Aligned"
+    }
+
+    philosophy  = "Make AI infrastructure measurably reliable, sovereignly private, and deterministically auditable."
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Flagship Systems
 
 <div align="center">
 
-| #   | Project                                                                                                | Description                                                                                                                                               | Stack                                                                            | Demo                                                                                            |
-| --- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 🏆  | [**CodeSlim**](https://github.com/ImdataScientistSachin/CodeSlim)                                      | **NEW** · Agentic AI CLI engine — 6-stage LangGraph pipeline. Cuts LLM token bloat by **76%** with LibCST, AST guardrails & multi-provider fallback chain | `Python 3.11` `LangGraph` `LibCST` `Radon` `Vulture` `FastAPI` `Ollama` `Docker` | [⭐ Repo](https://github.com/ImdataScientistSachin/CodeSlim)                                    |
-| 🥇  | [**Bias Drift Guardian**](https://github.com/ImdataScientistSachin/Bias-Drift-Detector)                | Real-time AI fairness & drift monitoring. EU AI Act aligned. Intersectional bias detection across compound subgroups                                      | `Python` `Streamlit` `FastAPI` `SHAP` `Fairlearn` `Docker`                       | [🔴 Live](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/) |
-| 🥈  | [**Urban Sound Classifier**](https://github.com/ImdataScientistSachin/Urban-Sound_Classifier-Project)  | **96.63%** accuracy on UrbanSound8K. Hybrid U-Net + CNN with real-time mic classification                                                                 | `TensorFlow` `U-Net` `Librosa` `TFLite` `Flask`                                  | —                                                                                               |
-| 🥉  | [**Transcript → Ad Generator**](https://github.com/ImdataScientistSachin/transcript_To_Ad_Generation-) | NLP pipeline: transcript ingestion → NER → LLM ad copy → async video rendering                                                                            | `spaCy` `Redis Queue` `MoviePy` `Docker` `GitHub Actions`                        | —                                                                                               |
-| 4️⃣  | [**LLM-PlayBook**](https://github.com/ImdataScientistSachin/llm-playbook)                              | RAG pipelines & tool-using agents with retrieval evaluation harness (Recall@k, MRR)                                                                       | `LangChain` `FAISS` `Groq` `FastAPI` `Docker`                                    | —                                                                                               |
-| 5️⃣  | [**Skin Lesion Segmentation**](https://github.com/ImdataScientistSachin/UNet_Segmentation-)            | Medical AI: U-Net pixel segmentation on HAM10000. Temporal tracking with automated >15% growth alerts                                                     | `TensorFlow` `U-Net` `OpenCV` `Albumentations`                                   | —                                                                                               |
+| # | System | Architectural Role | Core Stack | Live & Artifacts |
+|---|---|---|---|---|
+| 🏆 | [**DataShuddi (3.2.0)**](https://github.com/ImdataScientistSachin/DataShuddi) | **Enterprise RAG Security Firewall** · 8-node LangGraph state machine, dual-engine Presidio + Ollama PII redaction, self-correcting reflection loop, Qdrant vector storage | `Python 3.11` `LangGraph` `Presidio` `Qdrant` `FastAPI` `PostgreSQL` `Docker` | [⭐ Repo](https://github.com/ImdataScientistSachin/DataShuddi) |
+| ⚡ | [**CodeSlim**](https://github.com/ImdataScientistSachin/CodeSlim) | **Deterministic Agentic Engine** · 6-stage AST optimization engine slashing AI code bloat by **76%** via LibCST + Tree-Sitter with 0% hallucination | `Python` `LibCST` `Tree-Sitter` `LangGraph` `FastAPI` `Ollama` `Docker` | [⭐ Repo](https://github.com/ImdataScientistSachin/CodeSlim) |
+| 🤖 | [**RetinaFace Pro**](https://github.com/ImdataScientistSachin/RetinaFace-Detection) | **Deepfake Evidence & Biometrics** · Real-time dense face localization, 5-point landmark alignment & ArcFace hyperspace verification (**~45ms edge latency**) | `RetinaFace` `ArcFace` `OpenCV` `TensorFlow` `MLflow` `Docker` | [🔴 Live App](https://imdatascientistsachin-ratina-face.hf.space) |
+| ⚖️ | [**Bias Drift Guardian**](https://github.com/ImdataScientistSachin/Bias-Drift-Detector) | **Production ML Drift & Fairness** · Intersectional bias detection (compound subgroups), PSI, Kolmogorov-Smirnov, SHAP & DiCE counterfactual XAI | `Python` `Streamlit` `Scikit-learn` `Fairlearn` `SHAP` `Docker` | [🔴 Live App](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/) |
 
 </div>
 
 ---
 
-## 🤖 Flagship — CodeSlim: Agentic AI Code Quality Engine
+## 🛡️ Flagship #1 — DataShuddi: Enterprise RAG Security Firewall
 
 <div align="center">
 
-> **The AI coding explosion created a new problem: structurally bloated, hallucination-prone code.  
-> CodeSlim is the automated guardrail that sits between LLMs and your production codebase.**
+> **Garbage In = Garbage Out. DataShuddi is the sovereign pre-ingestion firewall that neutralizes prompt injections, strips boilerplate, and redacts PII with zero offset drift before embeddings touch your vector database.**
 
-[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ImdataScientistSachin/DataShuddi)
+[![LangGraph](https://img.shields.io/badge/LangGraph-0.2.73-orange?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/ImdataScientistSachin/DataShuddi)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115.8-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/ImdataScientistSachin/DataShuddi)
+[![Qdrant](https://img.shields.io/badge/Qdrant-v1.13.0-red?style=for-the-badge&logo=qdrant&logoColor=white)](https://github.com/ImdataScientistSachin/DataShuddi)
+[![PII Recall](https://img.shields.io/badge/PII%20Recall-100.0%25-brightgreen?style=for-the-badge)](https://github.com/ImdataScientistSachin/DataShuddi)
+[![Tests](https://img.shields.io/badge/Tests-66%2F66%20Passed-success?style=for-the-badge)](https://github.com/ImdataScientistSachin/DataShuddi)
+[![License](https://img.shields.io/badge/License-Apache_2.0-green.svg?style=for-the-badge)](https://github.com/ImdataScientistSachin/DataShuddi)
+
+</div>
+
+### 🏗️ The 8-Node LangGraph State Machine
+
+```
+  [Raw Untrusted Document (.pdf / .docx / .txt)]
+  │
+  ├─ Node 1: EXTRACTOR              PyMuPDF / python-docx / PaddleOCR raw parser
+  ├─ Node 0: SECURITY SANITIZER     Adversarial prompt injection & jailbreak neutralization
+  ├─ Node 2: H/F DETECTOR           Cross-page frequency density boilerplate & disclaimer stripper
+  ├─ Node 3: PII DETECTOR           Microsoft Presidio (SpaCy en_core_web_lg) + Ollama Qwen 2.5 Dual Engine
+  ├─ Node 4: PII MASKER             Interval-resolved right-to-left substitution (Zero offset drift)
+  ├─ Node 5: SCHEMA VALIDATOR       Pydantic v2 validation & compliance quality scoring
+  │    │
+  │    ├─ [Validation Passed] ───> Node 7: OUTPUT NODE (Sentence Chunking -> mxbai 1024d -> Qdrant Upsert)
+  │    │
+  │    ├─ [Validation Failed] ───> Node 6: REFLECTOR (Qwen 14b Diagnostic Critique Loop, conf >= 0.70)
+  │    │                                    └── (Retry Loop < 3) ───> Rerun Node 1 with tuned delta
+  │    │
+  │    └─ [Retries Exhausted >= 3] ──> 🚨 HUMAN REVIEW QUEUE (data/human_review/queue.jsonl)
+  │
+  └─ [Sanitized Payload & Vector Ingested] ──> GDPR Article 17 Purge Ready
+```
+
+### ⚡ Empirical Benchmark Scorecard
+
+| Metric | Score | Production Gate | Status |
+|---|:---:|:---:|:---:|
+| **PII Detection Recall** | **100.0%** | $\ge 95.0\%$ | ✅ PASSED |
+| **Composite F1-Score** | **90.9%** | $\ge 90.0\%$ | ✅ PASSED |
+| **Clean-Path Latency** | **< 150 ms / doc** | $< 350	ext{ ms}$ | ✅ PASSED |
+| **Residual Leak Rate** | **0.00%** | $0.00\%$ (Hard Gate) | ✅ PASSED |
+| **Automated Test Coverage** | **66 / 66 Tests** | $100\%$ Green | ✅ PASSED |
+
+---
+
+## ⚡ Flagship #2 — CodeSlim: Agentic AI Code Quality Engine
+
+<div align="center">
+
+> **The AI coding explosion created structurally bloated, hallucination-prone code. CodeSlim is the automated deterministic guardrail that sits between LLMs and your production codebase.**
+
 [![Tests](https://img.shields.io/badge/Tests-96%2F96%20Passing-2ea44f?style=for-the-badge&logo=pytest&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
-[![Architecture](https://img.shields.io/badge/Architecture-LangGraph%20Multi--Agent-6e40c9?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
-[![LLM](https://img.shields.io/badge/LLM-Ollama%20%7C%20OpenAI%20%7C%20Groq-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
-[![GitHub Action](https://img.shields.io/badge/GitHub_Action-Available-181717?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://github.com/ImdataScientistSachin/CodeSlim/blob/main/LICENSE)
+[![Architecture](https://img.shields.io/badge/Architecture-LangGraph%20Multi--Agent-6e40c9?style=for-the-badge)](https://github.com/ImdataScientistSachin/CodeSlim)
+[![Token Reduction](https://img.shields.io/badge/Token%20Bloat-76%25%20Reduction-00ff88?style=for-the-badge)](https://github.com/ImdataScientistSachin/CodeSlim)
 
 </div>
 
-### 🔥 The Problem CodeSlim Solves
-
-```
-Industry benchmark reality (2025–2026):
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  • AI-generated code has 1.7× MORE BUGS than human-written code   [CodeRabbit 2026]
-  • 96% of engineers DISTRUST unverified AI code                   [Sonar / SO 2026]
-  • 5.2–21.7% of AI package suggestions are NON-EXISTENT           [USENIX 2025]
-  • Average PR size grew 154% LARGER post-AI adoption              [Google DORA 2025]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-CodeSlim solution: 76% token reduction · $0 LLM cost for 80% of fixes · 0% hallucination corruption
-```
-
-### 🏗️ The 6-Stage Agentic Pipeline
+### 🏗️ The 6-Stage AST Optimization Pipeline
 
 ```text
   INPUT → .py file / directory / GitHub PR Webhook
@@ -120,84 +153,43 @@ CodeSlim solution: 76% token reduction · $0 LLM cost for 80% of fixes · 0% hal
   └─ Stage 6 · OBSERVATORY UI     Rich Terminal Dashboard · HTML Observatory · FastAPI Web Studio · GitHub PR Bot
 ```
 
-### ⚡ Key Metrics & Capabilities
-
-| Capability                 | What It Does                                                      | Impact                           |
-| -------------------------- | ----------------------------------------------------------------- | -------------------------------- |
-| ⚡ **76% Token Reduction** | LibCST lossless CST pruning + TF-IDF docstring compression        | Massive LLM cost savings         |
-| 🛡️ **AST Safety Gate**     | `ast.parse()` + public signature preservation                     | **0% hallucination corruption**  |
-| 🤖 **LangGraph DAG**       | Stateful multi-node pipeline with conditional branching           | Production-grade orchestration   |
-| 💰 **$0 for 80% of Fixes** | Deterministic CST node — no LLM needed for import/dead-code purge | Zero API cost baseline           |
-| 🔒 **Local-First Privacy** | Ollama (`qwen2.5-coder:3b`) runs 100% offline on GTX 1650         | Code never leaves your machine   |
-| 🎯 **3-Tier Classifier**   | Auto-Safe → Suggest → Flag-Only confidence tiers                  | Zero unintended breaking changes |
-| 💾 **SHA-256 Cache**       | DiskCache stores LLM completions — re-runs cost **$0.00**         | Complete cost optimization       |
-| 🚀 **GitHub Action**       | One-line CI integration, zero infrastructure setup                | Automated PR audits              |
-| 🔭 **HTML Observatory**    | Standalone Tokyo Night interactive dashboard + surgery modal      | Instant codebase visibility      |
-
-```python
-# One-liner: Analyze & auto-fix AI bloat in any Python project
-codeslim analyze ./src/ --format rich
-codeslim optimize ./src/utils.py --apply --backup
-codeslim scan ./src/ --export-html observatory_report.html
-```
-
-### 📐 Bloat Score Formula (Grades A–F)
-
-```
-BloatScore = min(100.0,
-    0.30 × CyclomaticComplexity  +   ← primary driver (Radon CC)
-    0.25 × NestingDepth          +   ← AI nesting hell detector
-    0.20 × DeadCodeLines         +   ← Vulture-detected bloat
-    0.15 × CognitiveComplexity   +   ← Lizard NLOC sensor
-    0.10 × DuplicationRatio          ← MD5 token-hash sliding window
-)
-```
-
-| Grade | Score | Meaning |
-|:-----:|:-----:|:--------|
-| **A** | 0–20 | Clean — no LLM intervention needed |
-| **B** | 21–40 | Good — Deterministic Fix Node handles it |
-| **C** | 41–60 | Moderate — LLM Refactor Node invoked on CC > 10 functions |
-| **D** | 61–80 | High bloat — full 6-stage pipeline runs |
-| **F** | 81–100 | Critical — AI over-engineering detected; immediate action required |
-
-<div align="center">
-
-[![View CodeSlim on GitHub](https://img.shields.io/badge/⭐_Star_on_GitHub-CodeSlim-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
-[![Contributors Welcome](https://img.shields.io/badge/🤝_Contributors-Welcome-00ff88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ImdataScientistSachin/CodeSlim/issues)
-[![PyPI](https://img.shields.io/badge/PyPI-Coming_Soon-FF6B6B?style=for-the-badge&logo=pypi&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
-
-</div>
+* **Bloat Slashed:** Slashes LLM token bloat by **76%** using deterministic CST pruning with **0% hallucination risk**.
+* **$0 for 80% of Fixes:** Pure C-native and AST transformations handle dead imports and scaffolding without invoking expensive LLM tokens.
 
 ---
 
-## 🛡️ Flagship #2 — Bias Drift Guardian
+## 🤖 Flagship #3 — RetinaFace Pro: Deepfake Evidence & Biometrics
+
+<div align="center">
+
+> **Industry-grade computer vision for real-time dense face detection, 5-point landmark transformation, and ArcFace hyperspace identity verification.**
+
+[![Live Demo](https://img.shields.io/badge/🤗_HuggingFace-Live_Demo-FFD21E?style=for-the-badge)](https://imdatascientistsachin-ratina-face.hf.space)
+[![Inference Latency](https://img.shields.io/badge/Inference-~45ms%20%2822%20FPS%29-009688?style=for-the-badge)](https://github.com/ImdataScientistSachin/RetinaFace-Detection)
+[![Backbone](https://img.shields.io/badge/Backbone-MobileNet--0.25%20FPN-FF6F00?style=for-the-badge)](https://github.com/ImdataScientistSachin/RetinaFace-Detection)
+
+</div>
+
+* **Architecture Trade-off:** Feature Pyramid Network (FPN) single-pass localization over slow two-stage RPNs; **MobileNet-0.25** backbone delivers **~45ms latency (22 FPS)** on edge GPUs.
+* **Spatial 5-Point Alignment:** Normalizes eye, nose, and mouth corner coordinates, preventing the ~18% embedding degradation common in unaligned verification pipelines.
+* **ArcFace Hyperspace Separability:** Employs Additive Angular Margin Loss for compact intra-class clustering and maximized inter-class margins for deepfake and forensic verification.
+* **MLflow Observability:** Live tracking of inference latency, confidence calibration, and landmark drift.
+
+---
+
+## ⚖️ Flagship #4 — Bias Drift Guardian
 
 <div align="center">
 
 > **Detect bias before it becomes a lawsuit. Monitor drift before it breaks your model.**
 
 [![Live Demo](https://img.shields.io/badge/🔴_LIVE_APP-Click_to_Open-FF4B4B?style=for-the-badge&logo=streamlit)](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/ImdataScientistSachin/Bias-Drift-Detector)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
 
-**What makes it unique:** Standard fairness tools check one attribute at a time (gender _or_ age). Bias Drift Guardian detects **compound discrimination** across intersecting subgroups — the kind courts care about.
-
-```
-Standard:  "No gender bias detected" ✅  (Male: 70%,  Female: 68%)
-Ours:      "Female employees aged 50+ → only 38% approval rate!" ❌  (Disparity: 0.48)
-```
-
-| Capability                 | Details                                                      |
-| -------------------------- | ------------------------------------------------------------ |
-| 🎯 Intersectional Fairness | Compound subgroup analysis (gender × age × race)             |
-| 📊 Drift Detection         | PSI · KS Test · Chi-Square with configurable thresholds      |
-| 🔍 Root Cause Analysis     | SHAP feature importance drift attribution                    |
-| 🔮 Counterfactual XAI      | DiCE What-If explanations (constraint-aware, EEOC-auditable) |
-| 📁 Multi-Dataset           | German Credit · Adult Census · COMPAS Recidivism             |
-| 🚀 Deployment              | Docker Compose · FastAPI · Streamlit Cloud · MIT licensed    |
+* **Intersectional Fairness:** Detects compound subgroup discrimination (e.g. *Female + Age 50+ $	o$ 38% approval rate*) where single-attribute tools report false passes.
+* **Statistical Drift Engines:** Automated **Population Stability Index (PSI)**, **Kolmogorov-Smirnov**, and **Chi-Square** distribution tests.
+* **Explainability:** **SHAP** feature drift attribution + **DiCE** counterfactual What-If audit scenarios (EEOC & EU AI Act aligned).
 
 ---
 
@@ -205,68 +197,42 @@ Ours:      "Female employees aged 50+ → only 38% approval rate!" ❌  (Dispari
 
 <div align="center">
 
-**Core Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Agentic AI & LLM Pipelines**
-
+**Agentic AI, LLM & RAG Systems**  
 ![LangGraph](https://img.shields.io/badge/LangGraph-6e40c9?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LibCST](https://img.shields.io/badge/LibCST-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![Radon](https://img.shields.io/badge/Radon-00ff88?style=flat-square&logo=python&logoColor=black)
+![Presidio](https://img.shields.io/badge/Microsoft_Presidio-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-DC382D?style=flat-square&logo=qdrant&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_Local_LLM-000000?style=flat-square&logo=ollama&logoColor=white)
+![LibCST](https://img.shields.io/badge/LibCST_AST-FF6B6B?style=flat-square&logo=python&logoColor=white)
+![Tree-Sitter](https://img.shields.io/badge/Tree--Sitter-00ff88?style=flat-square&logo=tree-sitter&logoColor=black)
 
-**Machine Learning & Deep Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+**Machine Learning & Computer Vision**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
-
-**Responsible AI & Explainability**
-
-![SHAP](https://img.shields.io/badge/SHAP-4285F4?style=flat-square&logo=python&logoColor=white)
 ![Fairlearn](https://img.shields.io/badge/Fairlearn-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![EU AI Act](https://img.shields.io/badge/EU_AI_Act-003399?style=flat-square&logo=european-union&logoColor=white)
-![EEOC](https://img.shields.io/badge/EEOC_Compliance-1A6B3C?style=flat-square&logo=checkmarx&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-4285F4?style=flat-square&logo=python&logoColor=white)
 
-**Data & Visualisation**
-
+**Data Infrastructure & Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=sqlite&logoColor=white)
 
-**NLP & Computer Vision**
-
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-4CAF50?style=flat-square&logo=python&logoColor=white)
-
-**Deployment & MLOps**
-
+**Deployment, MLOps & APIs**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic_V2-E92063?style=flat-square&logo=python&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-000000?style=flat-square&logo=ruff&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Velocity
 
 <div align="center">
 
@@ -282,55 +248,19 @@ Ours:      "Female employees aged 50+ → only 38% approval rate!" ❌  (Dispari
 
 ---
 
-## 🎯 My Engineering Philosophy
-
-```
-Two domains. One mission.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  🤖 AGENTIC AI ENGINEERING (CodeSlim)
-     → AI systems that autonomously audit, minimize, and guard code quality
-     → Deterministic-first: 80% of work done by C-native tools, not LLMs
-     → LangGraph stateful DAGs · AST guardrails · Multi-provider fallback chains
-     → The AI coding explosion demands automated quality enforcement
-
-  ⚖️ RESPONSIBLE AI (Bias Drift Guardian)
-     → What happens AFTER deployment is where most teams go blind
-     → 80% of models experience drift within 6 months of going live
-     → Compound discrimination (gender × age × race) undetected by
-       standard single-attribute fairness tools
-     → EEOC / EU AI Act compliance is now a legal requirement
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Mission: Build AI that is fast, safe, auditable, and fair.
-```
-
-**Areas of deep expertise:**
-
-- **Agentic AI Pipelines** — LangGraph DAG orchestration, multi-node state machines, deterministic tool integration
-- **AST & CST Engineering** — LibCST lossless transformers, Tree-Sitter C-native parsing, `ast.parse()` guardrails
-- **Intersectional Fairness** — compound multi-attribute subgroup analysis beyond single-attribute tools
-- **Data Drift Detection** — PSI, KS Test, Chi-Square with root-cause attribution via SHAP
-- **Counterfactual Explanations** — DiCE-based What-If analysis, constraint-aware and audit-ready
-- **Regulatory Compliance** — EEOC (US), EU AI Act, GDPR-aware system design
-- **MLOps** — Docker, FastAPI, GitHub Actions CI/CD, Pydantic V2, structured logging
-
----
-
 ## 📈 Experience Highlights
 
 ```
 🏢 SparrowAI Research and Development Center  |  Data Scientist & AI Researcher  |  Aug 2025 – Jan 2026
-   → Built CodeSlim: 6-stage LangGraph agentic pipeline with LibCST + AST guardrails (96/96 tests)
-   → Built Bias Drift Guardian: production fairness monitoring system (EEOC / EU AI Act)
-   → Intersectional bias detection across compound subgroups (Female + Age 50+ → 38% approval)
-   → Drift detection via PSI, KS Test, Chi-Square; SHAP root-cause + DiCE counterfactual XAI
-   → Dockerised full stacks; GitHub Actions CI/CD; 96-test green suites on both systems
+   → Built DataShuddi: 8-node LangGraph RAG security firewall with Presidio + Ollama (66/66 Pytests)
+   → Built CodeSlim: 6-stage LangGraph AST engine slashing AI code bloat by 76% (96/96 Pytests)
+   → Built Bias Drift Guardian: Intersectional fairness & statistical drift detection pipeline
+   → Deployed containerized Docker Compose stacks and automated GitHub Actions CI/CD workflows
 
 🏢 Sparrow AI Pvt. Ltd.  |  Data Science Intern  |  Jan 2025 – Jun 2025
-   → Customer churn prediction & sales forecasting (classification + regression)
-   → Automated preprocessing pipelines — reduced manual effort ~30%
-   → Stakeholder dashboards (Streamlit · Matplotlib · Seaborn)
+   → Customer churn prediction & sales trend forecasting (classification + regression)
+   → Automated preprocessing and ETL pipelines — reduced manual effort by 30%
+   → Engineered interactive analytical telemetry dashboards (Streamlit · Power BI)
 ```
 
 ---
@@ -340,30 +270,24 @@ Two domains. One mission.
 <div align="center">
 
 🎯 **Currently open to:**  
-**Agentic AI Engineer** · **LLM Infrastructure Specialist** · **MLOps Engineer** · **AI/ML Engineer**
+**Applied Generative AI Engineer** · **Agentic Systems Engineer** · **LLM Infrastructure Specialist** · **Senior Data Scientist**
 
-🌍 **Available for:** Remote Global + India Tech Hubs (Pune · Bangalore · Hyderabad · Mumbai)
-
-If you work in **Agentic Systems, LLM Infrastructure, MLOps, FinTech, HealthTech, or AI Tooling** — let's talk.
+🌍 **Available for:** Remote Global + India Tech Hubs (Bangalore · Pune · Hyderabad · Mumbai)
 
 📬 **Response time: < 24 hours**
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-paunikar)
-[![Email](https://img.shields.io/badge/Email-Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ImdataScientistSachin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sachinpaunikar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinpaunikar@gmail.com)
+[![DataShuddi](https://img.shields.io/badge/GitHub-DataShuddi_Repo-009688?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImdataScientistSachin/DataShuddi)
 [![CodeSlim](https://img.shields.io/badge/GitHub-CodeSlim_Repo-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImdataScientistSachin/CodeSlim)
-[![Live Demo](https://img.shields.io/badge/Demo-Bias_Drift_Guardian-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://imdatascientistsachin-bias-drift-detector-dashboardapp-i2wbt8.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-RetinaFace_Pro-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://imdatascientistsachin-ratina-face.hf.space)
 
 <br/>
 
-> _"Build AI that is fast, safe, and fair —_  
-> _with deterministic guardrails at every stage of the pipeline."_
+> _"Build AI infrastructure that is fast, sovereignly private, and deterministically auditable at every stage of the pipeline."_
 
-</div>
-
----
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:00ff88,100:0d1117&height=120&section=footer" width="100%"/>
+
 </div>
