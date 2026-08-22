@@ -232,17 +232,17 @@ class SachinPaunikar:
 
 ---
 
-## 📊 GitHub Stats & Velocity
+## 📊 GitHub Engineering Telemetry & Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ImdataScientistSachin&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88&hide=issues&count_private=false&card_width=500" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImdataScientistSachin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8" height="180"/>
+<!-- Modern Interactive Activity Graph (Tokyo Night) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImdataScientistSachin&theme=tokyo-night&bg_color=0d1117&color=00ff88&line=6e40c9&point=ffffff&hide_border=true" width="95%" alt="Sachin's GitHub Activity Graph" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImdataScientistSachin&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=FF6B6B&currStreakLabel=00ff88" width="500"/>
+<!-- Modern Streak Stats (demolab) -->
+<img src="https://streak-stats.demolab.com?user=ImdataScientistSachin&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=FF6B6B&currStreakLabel=00ff88" width="520" alt="Sachin's Commit Streak" />
 
 </div>
 
